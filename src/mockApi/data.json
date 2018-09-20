@@ -34,5 +34,17 @@
       { "id": 8, "name": "Jude Law" },
       { "id": 9, "name": "Samuel L. Jackson" }
     ]
+  },
+  "4": {
+    "title": "Spider-Man Homecoming",
+    "rating": 5,
+    "description": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+    "year": 2017,
+    "upcoming": false,
+    "cast": [
+      { "id": 7, "name": "Tom Holland" },
+      { "id": 8, "name": "Michael Keaton" },
+      { "id": 9, "name": "Robert Downey Jr." }
+    ]
   }
 }
